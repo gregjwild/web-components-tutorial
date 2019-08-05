@@ -13,7 +13,7 @@ class catCard extends HTMLElement {
             snoozeCat : {
                 name: "Snooze Cat",
                 description: "Snooze cat is snoozey. He lives in the corner of my desk.",
-                image: "./snooze-cat.jpg"
+                image: "./snooze-cat.JPG"
             },
             defaultCat : {
                 name: "Default Cat",
