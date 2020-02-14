@@ -23,7 +23,7 @@ class catCard extends HTMLElement {
         }
 
         // The Element's Shadow Root.
-        let shadow = this.attachShadow({mode: 'open'});
+        let shadow = this.attachShadow({mode: 'closed'});
 
         // Now we create the element's internal Shadow DOM
         let wrapper = document.createElement('div');
